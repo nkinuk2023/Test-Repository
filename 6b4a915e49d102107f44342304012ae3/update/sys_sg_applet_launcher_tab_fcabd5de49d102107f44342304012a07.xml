@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="Loaner Requests">78abd5de49d102107f44342304012a06</applet_launcher>
+        <icon display_value="Home Loaner Requests">30abd5de49d102107f44342304012a08</icon>
+        <label>Loaner Requests</label>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-03 14:12:52</sys_created_on>
+        <sys_id>fcabd5de49d102107f44342304012a07</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Requests</sys_name>
+        <sys_package display_value="Loaner Requests" source="x_cdltd_loaner_req">6b4a915e49d102107f44342304012ae3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Requests">6b4a915e49d102107f44342304012ae3</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_fcabd5de49d102107f44342304012a07</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-03 14:12:52</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+</record_update>

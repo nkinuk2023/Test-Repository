@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f7fa1112491502107f44342304012ac5" extends="task" label="Loaner Request" max_length="40" name="x_cdltd_loaner_req_loaner_request" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="End Date" max_length="40" name="expected_end" type="glide_date_time"/>
+        <element label="Requested for" max_length="32" name="requested_for" reference="sys_user" type="reference"/>
+    </element>
+</database>

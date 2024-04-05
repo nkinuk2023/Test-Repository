@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
+    <sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE">
+        <item_stream display_value="Loaner Tasks Item Stream">c2ab5d12491502107f44342304012ac4</item_stream>
+        <segment display_value="Loaner Tasks Item Stream Segment">caab5d12491502107f44342304012ac3</segment>
+        <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-03 14:12:57</sys_created_on>
+        <sys_id>caab5d12491502107f44342304012ac4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Loaner Requests" source="x_cdltd_loaner_req">6b4a915e49d102107f44342304012ae3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Requests">6b4a915e49d102107f44342304012ae3</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_segment_caab5d12491502107f44342304012ac4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-03 14:12:57</sys_updated_on>
+    </sys_sg_item_stream_m2m_segment>
+</record_update>
